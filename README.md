@@ -34,7 +34,7 @@
   <a href="https://www.codewars.com/users/Nasdermn">
     <img src="https://www.codewars.com/users/Nasdermn/badges/large" alt="Codewars">
   </a>
-  <br><br><br>
+  <br><br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nasdermn' alt='Top Langs' />
 </div>
 
