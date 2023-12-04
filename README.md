@@ -4,14 +4,14 @@
   </a>
 </div>
 
-<h1 align='center'>Веб-разработчик, студент бакалавриата</h1>
+<h1 align='center'>Fullstack-разработчик</h1>
 
 ## Обо мне:
 
 Привет 👋\
 Меня зовут Даниил Козлов, мне 23 года. Я закончил курс Яндекс.Практикума "Веб-разработчик". Сейчас я учусь на последнем курсе бакалавриата в университете и параллельно осваиваю новые технологии, накапливаю опыт в веб-разработке. В будущем планирую работать в данной сфере 🙃
 
-## Используемые мною технологии и инструменты:
+## Стек технологий:
 
 ![Git](https://img.shields.io/badge/Git-21201e?style=for-the-badge&logo=git&logoColor=d86513)
 ![HTML5](https://img.shields.io/badge/HTML5-e2cccc?style=for-the-badge&logo=html5&logoColor=orange)
@@ -23,7 +23,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-b20606?style=for-the-badge&logo=node.js&logoColor=27c22c)
 ![Express](https://img.shields.io/badge/Express-7214dc?style=for-the-badge&logo=express&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2b2038?style=for-the-badge&logo=mongoDB&logoColor=0dc813)
-![Postman](https://img.shields.io/badge/Postman-b8adad?style=for-the-badge&logo=postman&logoColor=orange)
+![pgSQL](https://img.shields.io/badge/pgSQL-fff?style=for-the-badge&logo=postgreSQL&logoColor=5B85A6)
 
 ## Статистика Codewars и GitHub:
 
