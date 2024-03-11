@@ -21,7 +21,6 @@
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=7214dc)
 ![Node.js](https://img.shields.io/badge/Node.js-85c11d?style=for-the-badge&logo=node.js&logoColor=044)
 ![Express](https://img.shields.io/badge/Express-ccc?style=for-the-badge&logo=express&logoColor=000)
-![NestJS](https://img.shields.io/badge/NestJS-ccc?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2b2038?style=for-the-badge&logo=mongoDB&logoColor=0dc813)
 ![pgSQL](https://img.shields.io/badge/pgSQL-fff?style=for-the-badge&logo=postgreSQL&logoColor=5B85A6)
 
