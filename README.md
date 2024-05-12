@@ -1,6 +1,6 @@
 <div align='center'>
   <a href='https://github.com/Nasdermn'>
-    <img src='./images/nasdermn.png' alt='Логотип профиля' />
+    <img src='./images/me.png' alt='Логотип профиля' />
   </a>
 </div>
 
