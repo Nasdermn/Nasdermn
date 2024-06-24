@@ -38,5 +38,5 @@
 ## Связаться со мной:
 
 <div align='center'>
-  <a href='https://t.me/johnnyserebr'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
+  <a href='https://t.me/moobeeboo'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
 </div>
