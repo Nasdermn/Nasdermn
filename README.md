@@ -20,10 +20,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-343032?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=197185)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=7214dc)
+![Zustand](https://img.shields.io/badge/Zustand-582D3E?style=for-the-badge&logo=createreactapp&logoColor=0F0B08)
 ![Node.js](https://img.shields.io/badge/Node.js-85c11d?style=for-the-badge&logo=node.js&logoColor=044)
 ![Express](https://img.shields.io/badge/Express-ccc?style=for-the-badge&logo=express&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2b2038?style=for-the-badge&logo=mongoDB&logoColor=0dc813)
 ![pgSQL](https://img.shields.io/badge/pgSQL-fff?style=for-the-badge&logo=postgreSQL&logoColor=5B85A6)
+![Postman](https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=#FF6C37)
 
 ## Статистика Codewars и GitHub:
 
